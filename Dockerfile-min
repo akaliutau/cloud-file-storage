@@ -1,0 +1,10 @@
+FROM ubuntu:20.04
+
+# cd /usr/local/runme
+WORKDIR /usr/local/runme
+
+
+RUN apt-get update;
+	
+
+
